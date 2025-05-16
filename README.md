@@ -10,12 +10,20 @@
 ## 🚀 What I Do
 
 - 🔌 **Custom WordPress Plugins & Themes**
-- 🧾 **WooCommerce Extensions** (Price Notes, ([First Purchase Reward](https://woocommerce.com/products/first-purchase-reward/)), YouTube Playlists and Product Gallery Videos, Banner Images for WooCommerce, Eu Energy Label for WooCommerce, File Upload for WooCommerce and more)
+- 🧾 **WooCommerce Extensions**
 - 📱 **Android/iOS App Development**
 - 💡 **API Integrations** (REST, SOAP, third-party services)
 - 🎯 **Full-stack Development** (PHP, Laravel, React.js)
 - 🔍 **SEO & Performance Optimization**
 
+---
+
+🧾 **WooCommerce Extensions**  
+- 🎁 [First Purchase Reward](https://woocommerce.com/products/first-purchase-reward/) – Offer discounts or rewards to first-time customers.  
+- 📺 [YouTube Playlists and Product Gallery Videos](https://woocommerce.com/products/youtube-playlists-and-product-gallery-videos-for-woocommerce/) – Embed YouTube playlists or videos in WooCommerce product galleries.  
+- 🖼️ [Banner Images for WooCommerce](https://woocommerce.com/products/banner-images-for-woocommerce/) – Add attractive image banners above product titles or categories.  
+- 📂 [All in One Files Upload for WooCommerce](https://woocommerce.com/products/all-in-one-files-upload-for-woocommerce/) – Let users upload images, PDFs, and documents on product, cart, and checkout pages.  
+- ⚡ [EU Energy Label for WooCommerce](https://woocommerce.com/products/eu-energy-label-for-woocommerce/) – Add compliant EU energy efficiency labels to your products.
 ---
 
 ## 🔗 Connect With Me
