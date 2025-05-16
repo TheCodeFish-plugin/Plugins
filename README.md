@@ -21,9 +21,9 @@
 ## 🔗 Connect With Me
 
 🌐 [Website](https://thecodefish.com)  
-📺 [YouTube](https://youtube.com/@thecodefish)  
+📺 [YouTube](https://youtube.com/@CodeFish-s7u)  
 📦 [WooCommerce Portfolio](https://woocommerce.com/vendor/thecodefish/)  
-🐙 [GitHub]([https://github.com/thecodefish](https://github.com/TheCodeFish-plugin))  
+🐙 [GitHub](https://github.com/TheCodeFish-plugin)
 ✉️ [Contact](mailto:info.codefish@gmail.com)
 
 ---
