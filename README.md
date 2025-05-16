@@ -10,7 +10,7 @@
 ## 🚀 What I Do
 
 - 🔌 **Custom WordPress Plugins & Themes**
-- 🧾 **WooCommerce Extensions** (Price Notes, First Purchase Reward, YouTube Playlists and Product Gallery Videos, Banner Images for WooCommerce, Eu Energy Label for WooCommerce, File Upload for WooCommerce and more)
+- 🧾 **WooCommerce Extensions** (Price Notes, ([First Purchase Reward](https://woocommerce.com/products/first-purchase-reward/)), YouTube Playlists and Product Gallery Videos, Banner Images for WooCommerce, Eu Energy Label for WooCommerce, File Upload for WooCommerce and more)
 - 📱 **Android/iOS App Development**
 - 💡 **API Integrations** (REST, SOAP, third-party services)
 - 🎯 **Full-stack Development** (PHP, Laravel, React.js)
